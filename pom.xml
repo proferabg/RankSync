@@ -16,6 +16,7 @@
     <module>manager</module>
     <module>server</module>
     <module>bungee</module>
+    <module>velocity</module>
   </modules>
 
   <properties>
